@@ -6,6 +6,9 @@
     "id": "cordova-plugin-crosswalk-webview",
     "platforms": [
       "android"
+    ],
+    "dependencies": [
+      "q"
     ]
   },
   "repository": {
