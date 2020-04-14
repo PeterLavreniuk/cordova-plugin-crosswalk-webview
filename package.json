@@ -9,7 +9,9 @@
     ],
     "dependencies": [
       "q",
-      "fs"
+      "fs",
+      "path",
+      "elementtree"
     ]
   },
   "repository": {
