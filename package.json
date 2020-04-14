@@ -8,7 +8,8 @@
       "android"
     ],
     "dependencies": [
-      "q"
+      "q",
+      "fs"
     ]
   },
   "repository": {
